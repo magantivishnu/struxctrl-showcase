@@ -1,9 +1,9 @@
-# SiteSync Pro
+# struXctrl (formerly SiteSync Pro)
 
 **A site-management platform for pre-engineered building (PEB) and structural steel erection.**
-Built solo. Live on site and in daily operational use.
+Built solo. Live on site and in daily operational use. Product site: **https://struxctrl.in**
 
-> This repository is a public showcase. **It contains no source code** — SiteSync Pro is a
+> This repository is a public showcase. **It contains no source code** — struXctrl is a
 > commercial product and the codebase is private. What follows is an architecture and
 > capability write-up for people evaluating the work.
 
@@ -15,7 +15,7 @@ Most PEB and structural steel erection projects are coordinated with spreadsheet
 WhatsApp. Progress lives in one place, material in another, crane hours in a third, and
 nobody can reconcile them until month end — by which point the cost overrun already happened.
 
-SiteSync is the single system of record for one question:
+struXctrl is the single system of record for one question:
 
 > *What was erected today, by whom, with which crane, against what plan, using what material,
 > at what cost per metric ton?*
@@ -163,7 +163,7 @@ Built by **Vishnu Vardhan Maganti** — 14+ years delivering heavy civil, infras
 structural steel projects, most recently as General Manager, now building the software that
 runs them.
 
-The reason SiteSync got adopted is not the stack. It is that requirements were gathered
+The reason struXctrl got adopted is not the stack. It is that requirements were gathered
 standing on site, and the workflows were rebuilt around how crews already worked rather than
 how the software wanted them to.
 
